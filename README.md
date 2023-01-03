@@ -1,5 +1,5 @@
 # GDUFS_Latex v.1.0_beta
-This is a brief LaTex template for homework or essay in GDUFS.
+This is a brief LaTex template for assignments or essays in GDUFS.
 Previously, there had been no LaTex template designed for GDUFS. So I made one myself for course report.
 
 The black and white logo is from the word thesis performa from the official website. Theoretically, this template suites every major in GDUFS, except those courses which required students to use Microsoft Office. 
